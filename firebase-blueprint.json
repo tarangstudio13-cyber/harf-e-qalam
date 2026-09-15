@@ -1,0 +1,61 @@
+{
+  "entities": {
+    "categories": {
+      "title": "Category",
+      "description": "Urdu poetry categories and types",
+      "fields": {
+        "nameUrdu": { "type": "string", "description": "Category name in Urdu" },
+        "nameEnglish": { "type": "string", "description": "Category name in English" },
+        "order": { "type": "number", "description": "Display order" },
+        "createdAt": { "type": "string", "description": "Creation timestamp" }
+      }
+    },
+    "poets": {
+      "title": "Poet",
+      "description": "Urdu poets catalog",
+      "fields": {
+        "nameUrdu": { "type": "string", "description": "Poet name in Urdu" },
+        "nameEnglish": { "type": "string", "description": "Poet name in English" },
+        "titleOrEra": { "type": "string", "description": "Title or Era" },
+        "avatarUrl": { "type": "string", "description": "Avatar photo URL" },
+        "bioUrdu": { "type": "string", "description": "Biography in Urdu" },
+        "bioEnglish": { "type": "string", "description": "Biography in English" },
+        "order": { "type": "number", "description": "Display order" },
+        "birthYear": { "type": "string", "description": "Birth year" },
+        "deathYear": { "type": "string", "description": "Death year" },
+        "isTopPoet": { "type": "boolean", "description": "Whether poet is featured on top" },
+        "createdAt": { "type": "string", "description": "Creation timestamp" }
+      }
+    },
+    "poetry": {
+      "title": "Poetry",
+      "description": "Urdu poetry verses, ghazals, and nazms",
+      "fields": {
+        "titleUrdu": { "type": "string", "description": "Urdu title" },
+        "titleEnglish": { "type": "string", "description": "English title" },
+        "verses": { "type": "array", "description": "Verses list" },
+        "poetId": { "type": "string", "description": "ID of the poet" },
+        "categoryId": { "type": "string", "description": "ID of the category" },
+        "type": { "type": "string", "description": "Poetry type (ghazal, nazm, etc)" },
+        "status": { "type": "string", "description": "Status (published, draft)" },
+        "isFeatured": { "type": "boolean", "description": "Featured status" },
+        "likesCount": { "type": "number", "description": "Likes counter" },
+        "viewsCount": { "type": "number", "description": "Views counter" },
+        "createdAt": { "type": "string", "description": "Creation timestamp" }
+      }
+    },
+    "banners": {
+      "title": "Banner",
+      "description": "Home screen promotional banners",
+      "fields": {
+        "title": { "type": "string", "description": "Banner title" },
+        "subtitle": { "type": "string", "description": "Banner subtitle" },
+        "imageUrl": { "type": "string", "description": "Image URL or data" },
+        "linkUrl": { "type": "string", "description": "Target link URL" },
+        "isActive": { "type": "boolean", "description": "Active state" },
+        "order": { "type": "number", "description": "Display order" },
+        "createdAt": { "type": "string", "description": "Creation timestamp" }
+      }
+    }
+  }
+}

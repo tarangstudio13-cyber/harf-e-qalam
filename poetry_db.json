@@ -1,0 +1,1579 @@
+{
+  "categories": [
+    {
+      "id": "cat-ishq",
+      "nameUrdu": "عشق و محبت",
+      "nameEnglish": "Love & Romance",
+      "order": 1,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-dard",
+      "nameUrdu": "درد و غم",
+      "nameEnglish": "Sorrow & Melancholy",
+      "order": 2,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-ghalib",
+      "nameUrdu": "مرزا غالب",
+      "nameEnglish": "Mirza Ghalib",
+      "order": 3,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-iqbal",
+      "nameUrdu": "علامہ اقبال",
+      "nameEnglish": "Allama Iqbal",
+      "order": 4,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-elia",
+      "nameUrdu": "جون ایلیا",
+      "nameEnglish": "Jaun Elia",
+      "order": 5,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-faiz",
+      "nameUrdu": "فیض احمد فیض",
+      "nameEnglish": "Faiz Ahmad Faiz",
+      "order": 6,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-sufiana",
+      "nameUrdu": "صوفیانہ کلام",
+      "nameEnglish": "Sufism & Mystic",
+      "order": 7,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-tanha",
+      "nameUrdu": "تنہائی و یاد",
+      "nameEnglish": "Solitude & Nostalgia",
+      "order": 8,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    },
+    {
+      "id": "cat-zindagi",
+      "nameUrdu": "فلسفہ و حیات",
+      "nameEnglish": "Life & Philosophy",
+      "order": 9,
+      "createdAt": "2026-09-13T20:09:13.847Z"
+    }
+  ],
+  "poets": [
+    {
+      "id": "poet-ghalib",
+      "nameUrdu": "مرزا غالب",
+      "nameEnglish": "Mirza Ghalib",
+      "titleOrEra": "دہلی، کلاسیکی دور • مرزا نوشہ",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-iqbal",
+      "nameUrdu": "علامہ اقبال",
+      "nameEnglish": "Allama Iqbal",
+      "titleOrEra": "شاعرِ مشرق، مفکرِ اسلام",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-elia",
+      "nameUrdu": "جون ایلیا",
+      "nameEnglish": "Jaun Elia",
+      "titleOrEra": "عہد ساز جدید فلسفیانہ و انقلابی شاعر",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-faiz",
+      "nameUrdu": "فیض احمد فیض",
+      "nameEnglish": "Faiz Ahmad Faiz",
+      "titleOrEra": "ترقی پسند تحریک کے سرخیل، لینن امن ایوارڈ",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-mir",
+      "nameUrdu": "میر تقی میر",
+      "nameEnglish": "Mir Taqi Mir",
+      "titleOrEra": "خدائے سخن، اردو غزل کا امام",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-faraz",
+      "nameUrdu": "احمد فراز",
+      "nameEnglish": "Ahmad Faraz",
+      "titleOrEra": "عصری رومانوی و مزاحمتی شاعری کا معتبر نام",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-parveen",
+      "nameUrdu": "پروین شاکر",
+      "nameEnglish": "Parveen Shakir",
+      "titleOrEra": "خوشبو کی شاعِرہ، جذباتِ نسواں کی لطیف ترجمان",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-mohsin",
+      "nameUrdu": "محسن نقوی",
+      "nameEnglish": "Mohsin Naqvi",
+      "titleOrEra": "موجِ ادراک، عذابِ دید کے خالق",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-niazi",
+      "nameUrdu": "منیر نیازی",
+      "nameEnglish": "Munir Niazi",
+      "titleOrEra": "طلسمی اور پر اسرار فضا کے منفرد شاعر",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-sahir",
+      "nameUrdu": "ساحر لدھیانوی",
+      "nameEnglish": "Sahir Ludhianvi",
+      "titleOrEra": "تلخیاں، پرچھائیاں اور انقلابی رومانیت",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-rahat",
+      "nameUrdu": "راحت اندوری",
+      "nameEnglish": "Rahat Indori",
+      "titleOrEra": "عوامی لحن اور بے باک شاعری کا استعارہ",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-badr",
+      "nameUrdu": "بشیر بدر",
+      "nameEnglish": "Bashir Badr",
+      "titleOrEra": "اجالے اپنی یادوں کے، نرم جذبات کے شاعر",
+      "featured": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-dagh",
+      "nameUrdu": "داغ دہلوی",
+      "nameEnglish": "Dagh Dehlvi",
+      "titleOrEra": "بلبلِ ہند، زبانِ اردو کے استادِ کامل",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-zafar",
+      "nameUrdu": "بہادر شاہ ظفر",
+      "nameEnglish": "Bahadur Shah Zafar",
+      "titleOrEra": "آخری مغل تاجدار و صاحبِ طرز غزل گو",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-momin",
+      "nameUrdu": "مومن خاں مومن",
+      "nameEnglish": "Momin Khan Momin",
+      "titleOrEra": "معاملہ بندی و حسن و عشق کے نازک خیال شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-zauq",
+      "nameUrdu": "ذوق دہلوی",
+      "nameEnglish": "Zauq Dehlvi",
+      "titleOrEra": "خاقانیِ ہند، شکوہِ الفاظ کے استاد",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-hasrat",
+      "nameUrdu": "حسرت موہانی",
+      "nameEnglish": "Hasrat Mohani",
+      "titleOrEra": "رئیس المتغزلین، حریت پسند مجاہد",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-jigar",
+      "nameUrdu": "جگر مراد آبادی",
+      "nameEnglish": "Jigar Moradabadi",
+      "titleOrEra": "شہنشاہِ ترنم، آتشِ گل کے خالق",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-shakeb",
+      "nameUrdu": "شکیب جلالی",
+      "nameEnglish": "Shakeb Jalali",
+      "titleOrEra": "جدید غزل کا سنگِ میل، سنگِ میل",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-dard",
+      "nameUrdu": "خواجہ میر درد",
+      "nameEnglish": "Khwaja Mir Dard",
+      "titleOrEra": "صوفیانہ شاعری کا امام، دبستانِ دہلی",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-kazmi",
+      "nameUrdu": "ناصر کاظمی",
+      "nameEnglish": "Nasir Kazmi",
+      "titleOrEra": "اداسی، شام اور ہجرت کا بے مثال شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-jalib",
+      "nameUrdu": "حبیب جالب",
+      "nameEnglish": "Habib Jalib",
+      "titleOrEra": "عوامی اور مزاحمتی شاعری کا نڈر علمبردار",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-minai",
+      "nameUrdu": "امیر مینائی",
+      "nameEnglish": "Ameer Minai",
+      "titleOrEra": "مرقعِ سخن و لسان الغیب",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-atish",
+      "nameUrdu": "آتش لکھنوی",
+      "nameEnglish": "Atish Lakhnavi",
+      "titleOrEra": "دبستانِ لکھنؤ، شگفتگی و تصوف",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-waseem",
+      "nameUrdu": "وسیم بریلوی",
+      "nameEnglish": "Waseem Barelvi",
+      "titleOrEra": "عصری فلسفہ و اخلاقی اقدار کے شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-zaidi",
+      "nameUrdu": "مصطفیٰ زیدی",
+      "nameEnglish": "Mustafa Zaidi",
+      "titleOrEra": "شہرِ آزر، موجِ ہوا پیچاں کے مصنف",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-amjad",
+      "nameUrdu": "مجید امجد",
+      "nameEnglish": "Majeed Amjad",
+      "titleOrEra": "شبِ رفتہ، جدید نظم کے عظیم تخلیق کار",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-firaq",
+      "nameUrdu": "فراق گورکھپوری",
+      "nameEnglish": "Firaq Gorakhpuri",
+      "titleOrEra": "پدم بھوشن و گیان پیٹھ ایوارڈ یافتہ غزل گو",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-qasmi",
+      "nameUrdu": "احمد ندیم قاسمی",
+      "nameEnglish": "Ahmad Nadeem Qasmi",
+      "titleOrEra": "فنون کے مدیر، افسانہ و غزل کے معتبر قلمکار",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-insha",
+      "nameUrdu": "ابنِ انشا",
+      "nameEnglish": "Ibn-e-Insha",
+      "titleOrEra": "اس بستی کے اک کوچے میں، تیاگ و وارفتگی",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-arif",
+      "nameUrdu": "افتخار عارف",
+      "nameEnglish": "Iftikhar Arif",
+      "titleOrEra": "مہرِ دو نیم، حرفِ باریاب کے شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-fani",
+      "nameUrdu": "فانی بدایونی",
+      "nameEnglish": "Fani Badayuni",
+      "titleOrEra": "یاسیات کے امام، حزن و ملال کے مصور",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-asghar",
+      "nameUrdu": "اصغر گونڈوی",
+      "nameEnglish": "Asghar Gondvi",
+      "titleOrEra": "نشاطِ روح و تصوف کے صوفی شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-aleem",
+      "nameUrdu": "عبید اللہ علیم",
+      "nameEnglish": "Obaidullah Aleem",
+      "titleOrEra": "چاند چہرہ ستارہ آنکھیں، رومانی نغمگی",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-ada",
+      "nameUrdu": "ادا جعفری",
+      "nameEnglish": "Ada Jafri",
+      "titleOrEra": "اردو شاعری کی خاتونِ اول",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-kishwar",
+      "nameUrdu": "کشور ناہید",
+      "nameEnglish": "Kishwar Naheed",
+      "titleOrEra": "مزاحمت و استقامت کی توانا آواز",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-tabassum",
+      "nameUrdu": "صوفی تبسم",
+      "nameEnglish": "Sufi Tabassum",
+      "titleOrEra": "استادِ فن، دامنِ دل و جھولنے کے خالق",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-zafar-iqbal",
+      "nameUrdu": "ظفر اقبال",
+      "nameEnglish": "Zafar Iqbal",
+      "titleOrEra": "آبِ رواں، غزل میں زبان کے نو آفرین",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-qateel",
+      "nameUrdu": "قتیل شفائی",
+      "nameEnglish": "Qateel Shifai",
+      "titleOrEra": "مقبول ترین نغمہ نگار و رومانوی غزل گو",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-saghar",
+      "nameUrdu": "ساغر صدیقی",
+      "nameEnglish": "Saghar Siddiqui",
+      "titleOrEra": "درویش و قلندر صفت، درد کا لازوال شاعر",
+      "featured": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "poet-1789330815488-xcr0",
+      "nameUrdu": "امجد اسلام امجد",
+      "nameEnglish": "Amjad Islam Amjad",
+      "titleOrEra": "برزخ، ستواں در، عکس کے معتبر شاعر",
+      "featured": true,
+      "createdAt": "2026-09-13T20:20:15.488Z"
+    }
+  ],
+  "poetry": [
+    {
+      "id": "p-1789330808078-ycbi",
+      "poetId": "poet-iqbal",
+      "poetNameUrdu": "علامہ اقبال",
+      "poetNameEnglish": "Allama Iqbal",
+      "categoryId": "cat-ishq",
+      "versesUrdu": [
+        "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
+        "خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے"
+      ],
+      "poetryType": "kalam",
+      "status": "published",
+      "likesCount": 0,
+      "featured": false,
+      "createdAt": "2026-09-13T20:20:08.078Z"
+    },
+    {
+      "id": "p-1",
+      "poetId": "poet-ghalib",
+      "poetNameUrdu": "مرزا اسد اللہ خاں غالب",
+      "poetNameEnglish": "Mirza Ghalib",
+      "categoryId": "cat-ghalib",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے",
+        "بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے"
+      ],
+      "status": "published",
+      "likesCount": 142,
+      "featured": true,
+      "createdAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-ghalib-ghazal-1",
+      "poetId": "poet-ghalib",
+      "poetNameUrdu": "مرزا اسد اللہ خاں غالب",
+      "poetNameEnglish": "Mirza Ghalib",
+      "categoryId": "cat-ghalib",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "دلِ ناداں تجھے ہوا کیا ہے",
+        "آخر اس درد کی دوا کیا ہے",
+        "ہم ہیں مشتاق اور وہ بیزار",
+        "یا الٰہی یہ ماجرا کیا ہے",
+        "میں بھی منہ میں زبان رکھتا ہوں",
+        "کاش پوچھو کہ مدعا کیا ہے",
+        "ہم کو ان سے وفا کی ہے امید",
+        "جو نہیں جانتے وفا کیا ہے",
+        "جان تم پر نثار کرتا ہوں",
+        "میں نہیں جانتا دعا کیا ہے"
+      ],
+      "status": "published",
+      "likesCount": 320,
+      "featured": true,
+      "createdAt": "2026-01-25T12:00:00.000Z"
+    },
+    {
+      "id": "p-1b",
+      "poetId": "poet-ghalib",
+      "poetNameUrdu": "مرزا اسد اللہ خاں غالب",
+      "poetNameEnglish": "Mirza Ghalib",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "عشق پر زور نہیں ہے یہ وہ آتش غالبؔ",
+        "کہ لگائے نہ لگے اور بجھائے نہ بنے"
+      ],
+      "status": "published",
+      "likesCount": 188,
+      "featured": true,
+      "createdAt": "2026-01-10T12:00:00.000Z"
+    },
+    {
+      "id": "p-9",
+      "poetId": "poet-ghalib",
+      "poetNameUrdu": "مرزا اسد اللہ خاں غالب",
+      "poetNameEnglish": "Mirza Ghalib",
+      "categoryId": "cat-ghalib",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "دلِ ناداں تجھے ہوا کیا ہے",
+        "آخر اس درد کی دوا کیا ہے"
+      ],
+      "status": "published",
+      "likesCount": 265,
+      "featured": true,
+      "createdAt": "2026-01-18T17:05:00.000Z"
+    },
+    {
+      "id": "p-2",
+      "poetId": "poet-elia",
+      "poetNameUrdu": "جون ایلیا",
+      "poetNameEnglish": "Jaun Elia",
+      "categoryId": "cat-elia",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "شاید مجھے کسی سے محبت نہیں ہوئی",
+        "لیکن یقین سب کو دلاتا رہا ہوں میں"
+      ],
+      "status": "published",
+      "likesCount": 189,
+      "featured": true,
+      "createdAt": "2026-01-11T12:30:00.000Z"
+    },
+    {
+      "id": "p-elia-ghazal-1",
+      "poetId": "poet-elia",
+      "poetNameUrdu": "جون ایلیا",
+      "poetNameEnglish": "Jaun Elia",
+      "categoryId": "cat-elia",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "بے دلی کیا یوں ہی دن گزر جائیں گے",
+        "صرف زندہ رہے ہم تو مر جائیں گے",
+        "رقص ہے رنگ پر رنگ ہم رقص ہیں",
+        "سب بچھڑ جائیں گے سب بکھر جائیں گے",
+        "کتنی دلکش ہو تم کتنا دل جو ہوں میں",
+        "کیا ستم ہے کہ ہم لوگ مر جائیں گے",
+        "شاید مجھے کسی سے محبت نہیں ہوئی",
+        "لیکن یقین سب کو دلاتا رہا ہوں میں"
+      ],
+      "status": "published",
+      "likesCount": 345,
+      "featured": true,
+      "createdAt": "2026-01-28T16:00:00.000Z"
+    },
+    {
+      "id": "p-8",
+      "poetId": "poet-elia",
+      "poetNameUrdu": "جون ایلیا",
+      "poetNameEnglish": "Jaun Elia",
+      "categoryId": "cat-elia",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "بے دلی کیا یوں ہی دن گزر جائیں گے",
+        "صرف زندہ رہے ہم تو مر جائیں گے"
+      ],
+      "status": "published",
+      "likesCount": 204,
+      "featured": true,
+      "createdAt": "2026-01-17T15:40:00.000Z"
+    },
+    {
+      "id": "p-2b",
+      "poetId": "poet-elia",
+      "poetNameUrdu": "جون ایلیا",
+      "poetNameEnglish": "Jaun Elia",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "کتنی دلکش ہو تم کتنا دل جو ہوں میں",
+        "کیا ستم ہے کہ ہم لوگ مر جائیں گے"
+      ],
+      "status": "published",
+      "likesCount": 172,
+      "featured": false,
+      "createdAt": "2026-01-11T18:00:00.000Z"
+    },
+    {
+      "id": "p-3",
+      "poetId": "poet-iqbal",
+      "poetNameUrdu": "علامہ محمد اقبال",
+      "poetNameEnglish": "Allama Iqbal",
+      "categoryId": "cat-iqbal",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ستاروں سے آگے جہاں اور بھی ہیں",
+        "ابھی عشق کے امتحاں اور بھی ہیں"
+      ],
+      "status": "published",
+      "likesCount": 220,
+      "featured": true,
+      "createdAt": "2026-01-12T14:15:00.000Z"
+    },
+    {
+      "id": "p-iqbal-ghazal-1",
+      "poetId": "poet-iqbal",
+      "poetNameUrdu": "علامہ محمد اقبال",
+      "poetNameEnglish": "Allama Iqbal",
+      "categoryId": "cat-iqbal",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "ستاروں سے آگے جہاں اور بھی ہیں",
+        "ابھی عشق کے امتحاں اور بھی ہیں",
+        "تہی زندگی سے نہیں یہ فضائیں",
+        "یہاں سینکڑوں کارواں اور بھی ہیں",
+        "قناعت نہ کر عالمِ رنگ و بو پر",
+        "چمن اور بھی آشیاں اور بھی ہیں",
+        "اگر کھو گیا اک نشیمن تو کیا غم",
+        "مقاماتِ آہ و فغاں اور بھی ہیں",
+        "تو شاہیں ہے پرواز ہے کام تیرا",
+        "ترے سامنے آسماں اور بھی ہیں"
+      ],
+      "status": "published",
+      "likesCount": 380,
+      "featured": true,
+      "createdAt": "2026-01-26T14:00:00.000Z"
+    },
+    {
+      "id": "p-10",
+      "poetId": "poet-iqbal",
+      "poetNameUrdu": "علامہ محمد اقبال",
+      "poetNameEnglish": "Allama Iqbal",
+      "categoryId": "cat-iqbal",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
+        "خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے"
+      ],
+      "status": "published",
+      "likesCount": 310,
+      "featured": true,
+      "createdAt": "2026-01-19T18:25:00.000Z"
+    },
+    {
+      "id": "p-3b",
+      "poetId": "poet-iqbal",
+      "poetNameUrdu": "علامہ محمد اقبال",
+      "poetNameEnglish": "Allama Iqbal",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ترے عشق کی انتہا چاہتا ہوں",
+        "مری سادگی دیکھ کیا چاہتا ہوں"
+      ],
+      "status": "published",
+      "likesCount": 195,
+      "featured": true,
+      "createdAt": "2026-01-12T19:00:00.000Z"
+    },
+    {
+      "id": "p-4",
+      "poetId": "poet-faiz",
+      "poetNameUrdu": "فیض احمد فیض",
+      "poetNameEnglish": "Faiz Ahmad Faiz",
+      "categoryId": "cat-faiz",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "مجھ سے پہلی سی محبت مرے محبوب نہ مانگ",
+        "میں نے سمجھا تھا کہ تو ہے تو درخشاں ہے حیات"
+      ],
+      "status": "published",
+      "likesCount": 165,
+      "featured": true,
+      "createdAt": "2026-01-13T16:00:00.000Z"
+    },
+    {
+      "id": "p-faiz-ghazal-1",
+      "poetId": "poet-faiz",
+      "poetNameUrdu": "فیض احمد فیض",
+      "poetNameEnglish": "Faiz Ahmad Faiz",
+      "categoryId": "cat-faiz",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "گلوں میں رنگ بھرے بادِ نوبہار چلے",
+        "چلے بھی آؤ کہ گلشن کا کاروبار چلے",
+        "قفس اداس ہے یارو صبا سے کچھ تو کہو",
+        "کہیں تو بہرِ خدا آج ذکرِ یار چلے",
+        "کبھی تو صبح ترے کنجِ لب سے ہو آغاز",
+        "کبھی تو شب سرِ کاکل سے مشکبار چلے",
+        "بڑا ہے درد کا رشتہ یہ دل غریب سہی",
+        "تمہارے نام پہ آئیں گے غمگسار چلے"
+      ],
+      "status": "published",
+      "likesCount": 290,
+      "featured": true,
+      "createdAt": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-4b",
+      "poetId": "poet-faiz",
+      "poetNameUrdu": "فیض احمد فیض",
+      "poetNameEnglish": "Faiz Ahmad Faiz",
+      "categoryId": "cat-faiz",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہم پرورشِ لوح و قلم کرتے رہیں گے",
+        "جو دل پہ گزرتی ہے رقم کرتے رہیں گے"
+      ],
+      "status": "published",
+      "likesCount": 182,
+      "featured": true,
+      "createdAt": "2026-01-13T20:00:00.000Z"
+    },
+    {
+      "id": "p-5",
+      "poetId": "poet-mir",
+      "poetNameUrdu": "میر تقی میر",
+      "poetNameEnglish": "Mir Taqi Mir",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "نازکی اس کے لب کی کیا کہئے",
+        "پنکھڑی اک گلاب کی سی ہے"
+      ],
+      "status": "published",
+      "likesCount": 130,
+      "featured": false,
+      "createdAt": "2026-01-14T09:20:00.000Z"
+    },
+    {
+      "id": "p-mir-ghazal-1",
+      "poetId": "poet-mir",
+      "poetNameUrdu": "میر تقی میر",
+      "poetNameEnglish": "Mir Taqi Mir",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "پتا پتا بوٹا بوٹا حال ہمارا جانے ہے",
+        "جانے نہ جانے گل ہی نہ جانے باغ تو سارا جانے ہے",
+        "نازکی اس کے لب کی کیا کہئے",
+        "پنکھڑی اک گلاب کی سی ہے",
+        "ابتدائے عشق ہے روتا ہے کیا",
+        "آگے آگے دیکھئے ہوتا ہے کیا"
+      ],
+      "status": "published",
+      "likesCount": 260,
+      "featured": true,
+      "createdAt": "2026-01-31T09:00:00.000Z"
+    },
+    {
+      "id": "p-5b",
+      "poetId": "poet-mir",
+      "poetNameUrdu": "میر تقی میر",
+      "poetNameEnglish": "Mir Taqi Mir",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ابتدائے عشق ہے روتا ہے کیا",
+        "آگے آگے دیکھئے ہوتا ہے کیا"
+      ],
+      "status": "published",
+      "likesCount": 174,
+      "featured": true,
+      "createdAt": "2026-01-14T14:00:00.000Z"
+    },
+    {
+      "id": "p-6",
+      "poetId": "poet-faraz",
+      "poetNameUrdu": "احمد فراز",
+      "poetNameEnglish": "Ahmad Faraz",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "سنا ہے لوگ اسے آنکھ بھر کے دیکھتے ہیں",
+        "سو اس کے شہر میں کچھ دن قیام کر کے دیکھتے ہیں"
+      ],
+      "status": "published",
+      "likesCount": 154,
+      "featured": true,
+      "createdAt": "2026-01-15T11:45:00.000Z"
+    },
+    {
+      "id": "p-faraz-ghazal-1",
+      "poetId": "poet-faraz",
+      "poetNameUrdu": "احمد فراز",
+      "poetNameEnglish": "Ahmad Faraz",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "سنا ہے لوگ اسے آنکھ بھر کے دیکھتے ہیں",
+        "سو اس کے شہر میں کچھ دن قیام کر کے دیکھتے ہیں",
+        "سنا ہے بولے تو باتوں سے پھول جھڑتے ہیں",
+        "یہ بات ہے تو چلو بات کر کے دیکھتے ہیں",
+        "سنا ہے دن کو اسے تتلیاں ستاتی ہیں",
+        "سنا ہے رات کو جگنو ٹھہر کے دیکھتے ہیں",
+        "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+        "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"
+      ],
+      "status": "published",
+      "likesCount": 310,
+      "featured": true,
+      "createdAt": "2026-01-29T11:00:00.000Z"
+    },
+    {
+      "id": "p-6b",
+      "poetId": "poet-faraz",
+      "poetNameUrdu": "احمد فراز",
+      "poetNameEnglish": "Ahmad Faraz",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+        "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"
+      ],
+      "status": "published",
+      "likesCount": 215,
+      "featured": true,
+      "createdAt": "2026-01-15T18:00:00.000Z"
+    },
+    {
+      "id": "p-7",
+      "poetId": "poet-parveen",
+      "poetNameUrdu": "پروین شاکر",
+      "poetNameEnglish": "Parveen Shakir",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "وہ تو خوشبو ہے ہواؤں میں بکھر جائے گا",
+        "مسئلہ پھول کا ہے پھول کدھر جائے گا"
+      ],
+      "status": "published",
+      "likesCount": 178,
+      "featured": false,
+      "createdAt": "2026-01-16T13:10:00.000Z"
+    },
+    {
+      "id": "p-parveen-ghazal-1",
+      "poetId": "poet-parveen",
+      "poetNameUrdu": "پروین شاکر",
+      "poetNameEnglish": "Parveen Shakir",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "کو بہ کو پھیل گئی بات شناسائی کی",
+        "اس نے خوشبو کی طرح میری پذیرائی کی",
+        "کیسے کہہ دوں کہ مجھے چھوڑ دیا ہے اس نے",
+        "بات تو سچ ہے مگر بات ہے رسوائی کی",
+        "وہ تو خوشبو ہے ہواؤں میں بکھر جائے گا",
+        "مسئلہ پھول کا ہے پھول کدھر جائے گا"
+      ],
+      "status": "published",
+      "likesCount": 280,
+      "featured": true,
+      "createdAt": "2026-01-30T15:00:00.000Z"
+    },
+    {
+      "id": "p-7b",
+      "poetId": "poet-parveen",
+      "poetNameUrdu": "پروین شاکر",
+      "poetNameEnglish": "Parveen Shakir",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "کو بہ کو پھیل گئی بات شناسائی کی",
+        "اس نے خوشبو کی طرح میری پذیرائی کی"
+      ],
+      "status": "published",
+      "likesCount": 160,
+      "featured": true,
+      "createdAt": "2026-01-16T16:00:00.000Z"
+    },
+    {
+      "id": "p-11",
+      "poetId": "poet-dard",
+      "poetNameUrdu": "خواجہ میر درد",
+      "poetNameEnglish": "Khwaja Mir Dard",
+      "categoryId": "cat-sufiana",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ارض و سماں کہاں تیری وسعت کو پا سکے",
+        "میرا ہی دل ہے وہ کہ جہاں تو سما سکے"
+      ],
+      "status": "published",
+      "likesCount": 112,
+      "featured": false,
+      "createdAt": "2026-01-20T19:30:00.000Z"
+    },
+    {
+      "id": "p-12",
+      "poetId": "poet-kazmi",
+      "poetNameUrdu": "ناصر کاظمی",
+      "poetNameEnglish": "Nasir Kazmi",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "دل میں اک لہر سی اٹھی ہے ابھی",
+        "کوئی تازہ ہوا چلی ہے ابھی"
+      ],
+      "status": "published",
+      "likesCount": 145,
+      "featured": false,
+      "createdAt": "2026-01-21T21:10:00.000Z"
+    },
+    {
+      "id": "p-13",
+      "poetId": "poet-jalib",
+      "poetNameUrdu": "حبیب جالب",
+      "poetNameEnglish": "Habib Jalib",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ایسے دستور کو صبحِ بے نور کو",
+        "میں نہیں مانتا، میں نہیں جانتا"
+      ],
+      "status": "published",
+      "likesCount": 198,
+      "featured": true,
+      "createdAt": "2026-01-22T08:00:00.000Z"
+    },
+    {
+      "id": "p-jalib-ghazal-1",
+      "poetId": "poet-jalib",
+      "poetNameUrdu": "حبیب جالب",
+      "poetNameEnglish": "Habib Jalib",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "دیپ جس کا محلات ہی میں جلے",
+        "چند لوگوں کی خوشیوں کو لے کر چلے",
+        "وہ جو سائے میں ہر مصلحت کے پلے",
+        "ایسے دستور کو صبحِ بے نور کو",
+        "میں نہیں مانتا، میں نہیں جانتا"
+      ],
+      "status": "published",
+      "likesCount": 240,
+      "featured": true,
+      "createdAt": "2026-01-23T08:00:00.000Z"
+    },
+    {
+      "id": "p-mohsin-1",
+      "poetId": "poet-mohsin",
+      "poetNameUrdu": "محسن نقوی",
+      "poetNameEnglish": "Mohsin Naqvi",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "یہ دل یہ پاگل دل مرا کیوں بجھ گیا آوارگی",
+        "اس دشت میں اک شہر تھا وہ کیا ہوا آوارگی"
+      ],
+      "status": "published",
+      "likesCount": 210,
+      "featured": true,
+      "createdAt": "2026-01-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-mohsin-ghazal-1",
+      "poetId": "poet-mohsin",
+      "poetNameUrdu": "محسن نقوی",
+      "poetNameEnglish": "Mohsin Naqvi",
+      "categoryId": "cat-dard",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "یہ دل یہ پاگل دل مرا کیوں بجھ گیا آوارگی",
+        "اس دشت میں اک شہر تھا وہ کیا ہوا آوارگی",
+        "کل شب مجھے بے شکل کی آواز نے چونکا دیا",
+        "میں نے کہا تو کون ہے بولا تری آوارگی",
+        "اک اجنبی جھونکے نے جب پوچھا مرے غم کا سبب",
+        "صحرا کی بھیگی ریت پر میں نے لکھا آوارگی"
+      ],
+      "status": "published",
+      "likesCount": 315,
+      "featured": true,
+      "createdAt": "2026-01-24T12:00:00.000Z"
+    },
+    {
+      "id": "p-niazi-1",
+      "poetId": "poet-niazi",
+      "poetNameUrdu": "منیر نیازی",
+      "poetNameEnglish": "Munir Niazi",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہمیشہ دیر کر دیتا ہوں میں ہر کام کرنے میں",
+        "ضروری بات کہنی ہو کوئی وعدہ نبھانا ہو"
+      ],
+      "status": "published",
+      "likesCount": 340,
+      "featured": true,
+      "createdAt": "2026-01-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-niazi-ghazal-1",
+      "poetId": "poet-niazi",
+      "poetNameUrdu": "منیر نیازی",
+      "poetNameEnglish": "Munir Niazi",
+      "categoryId": "cat-tanha",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "ہمیشہ دیر کر دیتا ہوں میں ہر کام کرنے میں",
+        "ضروری بات کہنی ہو کوئی وعدہ نبھانا ہو",
+        "اسے آواز دینی ہو اسے واپس بلانا ہو",
+        "ہمیشہ دیر کر دیتا ہوں میں ہر کام کرنے میں",
+        "کسی کو موت سے پہلے کسی غم سے بچانا ہو",
+        "حقیقت اور تھی کچھ اس کو جا کے یہ بتانا ہو"
+      ],
+      "status": "published",
+      "likesCount": 420,
+      "featured": true,
+      "createdAt": "2026-01-25T12:00:00.000Z"
+    },
+    {
+      "id": "p-sahir-1",
+      "poetId": "poet-sahir",
+      "poetNameUrdu": "ساحر لدھیانوی",
+      "poetNameEnglish": "Sahir Ludhianvi",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "کبھی کبھی مرے دل میں خیال آتا ہے",
+        "کہ جیسے تجھ کو بنایا گیا ہے میرے لیے"
+      ],
+      "status": "published",
+      "likesCount": 290,
+      "featured": true,
+      "createdAt": "2026-01-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-sahir-ghazal-1",
+      "poetId": "poet-sahir",
+      "poetNameUrdu": "ساحر لدھیانوی",
+      "poetNameEnglish": "Sahir Ludhianvi",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "کبھی کبھی مرے دل میں خیال آتا ہے",
+        "کہ جیسے تجھ کو بنایا گیا ہے میرے لیے",
+        "تو اب سے پہلے ستاروں میں بس رہی تھی کہیں",
+        "تجھے زمیں پہ بلایا گیا ہے میرے لیے",
+        "سہاگ رات ہے گھونگھٹ اٹھا رہا ہوں میں",
+        "سمٹ رہی ہے تو شرما کے میرے بازو میں"
+      ],
+      "status": "published",
+      "likesCount": 380,
+      "featured": true,
+      "createdAt": "2026-01-26T12:00:00.000Z"
+    },
+    {
+      "id": "p-rahat-1",
+      "poetId": "poet-rahat",
+      "poetNameUrdu": "راحت اندوری",
+      "poetNameEnglish": "Rahat Indori",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "شاخوں سے ٹوٹ جائیں وہ پتے نہیں ہیں ہم",
+        "آندھی سے کوئی کہہ دے کہ اوقات میں رہے"
+      ],
+      "status": "published",
+      "likesCount": 460,
+      "featured": true,
+      "createdAt": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-rahat-ghazal-1",
+      "poetId": "poet-rahat",
+      "poetNameUrdu": "راحت اندوری",
+      "poetNameEnglish": "Rahat Indori",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "اگر خلاف ہیں ہونے دو جان تھوڑی ہے",
+        "یہ سب دھواں ہے کوئی آسماں تھوڑی ہے",
+        "لگے گی آگ تو آئیں گے گھر کئی زد میں",
+        "یہاں پہ صرف ہمارا مکان تھوڑی ہے",
+        "سبھی کا خون ہے شامل یہاں کی مٹی میں",
+        "کسی کے باپ کا ہندوستان تھوڑی ہے"
+      ],
+      "status": "published",
+      "likesCount": 520,
+      "featured": true,
+      "createdAt": "2026-01-27T12:00:00.000Z"
+    },
+    {
+      "id": "p-badr-1",
+      "poetId": "poet-badr",
+      "poetNameUrdu": "بشیر بدر",
+      "poetNameEnglish": "Bashir Badr",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "اجالے اپنی یادوں کے ہمارے ساتھ رہنے دو",
+        "نہ جانے کس گلی میں زندگی کی شام ہو جائے"
+      ],
+      "status": "published",
+      "likesCount": 275,
+      "featured": true,
+      "createdAt": "2026-01-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-badr-ghazal-1",
+      "poetId": "poet-badr",
+      "poetNameUrdu": "بشیر بدر",
+      "poetNameEnglish": "Bashir Badr",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "اجالے اپنی یادوں کے ہمارے ساتھ رہنے دو",
+        "نہ جانے کس گلی میں زندگی کی شام ہو جائے",
+        "کبھی تو آسماں سے چاند اترے جام ہو جائے",
+        "تمہارے نام کی اک خوبصورت شام ہو جائے",
+        "یہ پھولوں کی قبائیں اور یہ خوشبو کے پیراہن",
+        "اگر تم چھو لو تو سب کچھ انعام ہو جائے"
+      ],
+      "status": "published",
+      "likesCount": 360,
+      "featured": true,
+      "createdAt": "2026-01-28T12:00:00.000Z"
+    },
+    {
+      "id": "p-dagh-1",
+      "poetId": "poet-dagh",
+      "poetNameUrdu": "داغ دہلوی",
+      "poetNameEnglish": "Dagh Dehlvi",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "اردو ہے جس کا نام ہمیں جانتے ہیں داغ",
+        "سارے جہاں میں دھوم ہماری زباں کی ہے"
+      ],
+      "status": "published",
+      "likesCount": 390,
+      "featured": false,
+      "createdAt": "2026-01-29T10:00:00.000Z"
+    },
+    {
+      "id": "p-dagh-ghazal-1",
+      "poetId": "poet-dagh",
+      "poetNameUrdu": "داغ دہلوی",
+      "poetNameEnglish": "Dagh Dehlvi",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "لطفِ مے تجھ سے کیا کہوں زاہد",
+        "ہائے کم بخت تو نے پی ہی نہیں",
+        "اردو ہے جس کا نام ہمیں جانتے ہیں داغ",
+        "سارے جہاں میں دھوم ہماری زباں کی ہے",
+        "غضب کیا ترے وعدے پہ اعتبار کیا",
+        "تمام رات قیامت کا انتظار کیا"
+      ],
+      "status": "published",
+      "likesCount": 310,
+      "featured": false,
+      "createdAt": "2026-01-29T12:00:00.000Z"
+    },
+    {
+      "id": "p-zafar-1",
+      "poetId": "poet-zafar",
+      "poetNameUrdu": "بہادر شاہ ظفر",
+      "poetNameEnglish": "Bahadur Shah Zafar",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "نہ کسی کی آنکھ کا نور ہوں نہ کسی کے دل کا سرور ہوں",
+        "جو کسی کے کام نہ آ سکے میں وہ ایک مشتِ غبار ہوں"
+      ],
+      "status": "published",
+      "likesCount": 330,
+      "featured": false,
+      "createdAt": "2026-01-30T10:00:00.000Z"
+    },
+    {
+      "id": "p-zafar-ghazal-1",
+      "poetId": "poet-zafar",
+      "poetNameUrdu": "بہادر شاہ ظفر",
+      "poetNameEnglish": "Bahadur Shah Zafar",
+      "categoryId": "cat-dard",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "لگتا نہیں ہے دل مرا اجڑے دیار میں",
+        "کس کی بنی ہے عالمِ ناپائیدار میں",
+        "بلبل کو باغباں سے نہ صیاد سے گلہ",
+        "قسمت میں قید لکھی تھی فصلِ بہار میں",
+        "کتنا ہے بد نصیب ظفرؔ دفن کے لیے",
+        "دو گز زمیں بھی نہ ملی کوئے یار میں"
+      ],
+      "status": "published",
+      "likesCount": 420,
+      "featured": false,
+      "createdAt": "2026-01-30T12:00:00.000Z"
+    },
+    {
+      "id": "p-momin-1",
+      "poetId": "poet-momin",
+      "poetNameUrdu": "مومن خاں مومن",
+      "poetNameEnglish": "Momin Khan Momin",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "تم مرے پاس ہوتے ہو گویا",
+        "جب کوئی دوسرا نہیں ہوتا"
+      ],
+      "status": "published",
+      "likesCount": 350,
+      "featured": false,
+      "createdAt": "2026-01-31T10:00:00.000Z"
+    },
+    {
+      "id": "p-momin-ghazal-1",
+      "poetId": "poet-momin",
+      "poetNameUrdu": "مومن خاں مومن",
+      "poetNameEnglish": "Momin Khan Momin",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "اثر اس کو ذرا نہیں ہوتا",
+        "رنج راحت فزا نہیں ہوتا",
+        "تم مرے پاس ہوتے ہو گویا",
+        "جب کوئی دوسرا نہیں ہوتا",
+        "حالِ دل یار کو لکھوں کیوں کر",
+        "ہاتھ دل سے جدا نہیں ہوتا"
+      ],
+      "status": "published",
+      "likesCount": 390,
+      "featured": false,
+      "createdAt": "2026-01-31T12:00:00.000Z"
+    },
+    {
+      "id": "p-zauq-1",
+      "poetId": "poet-zauq",
+      "poetNameUrdu": "ذوق دہلوی",
+      "poetNameEnglish": "Zauq Dehlvi",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "لائی حیات آئے قضا لے چلی چلے",
+        "اپنی خوشی نہ آئے نہ اپنی خوشی چلے"
+      ],
+      "status": "published",
+      "likesCount": 260,
+      "featured": false,
+      "createdAt": "2026-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-hasrat-1",
+      "poetId": "poet-hasrat",
+      "poetNameUrdu": "حسرت موہانی",
+      "poetNameEnglish": "Hasrat Mohani",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "چپکے چپکے رات دن آنسو بہانا یاد ہے",
+        "ہم کو اب تک عاشقی کا وہ زمانہ یاد ہے"
+      ],
+      "status": "published",
+      "likesCount": 310,
+      "featured": false,
+      "createdAt": "2026-02-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-hasrat-ghazal-1",
+      "poetId": "poet-hasrat",
+      "poetNameUrdu": "حسرت موہانی",
+      "poetNameEnglish": "Hasrat Mohani",
+      "categoryId": "cat-ishq",
+      "poetryType": "ghazal",
+      "versesUrdu": [
+        "چپکے چپکے رات دن آنسو بہانا یاد ہے",
+        "ہم کو اب تک عاشقی کا وہ زمانہ یاد ہے",
+        "دوپہر کی دھوپ میں میرے بلانے کے لیے",
+        "وہ ترا کوٹھے پہ ننگے پاؤں آنا یاد ہے",
+        "تجھ سے ملتے ہی وہ کچھ بے خود سے ہو جانا مرا",
+        "اور ترا دانستہ وہ آنکھیں چرانا یاد ہے"
+      ],
+      "status": "published",
+      "likesCount": 380,
+      "featured": false,
+      "createdAt": "2026-02-02T12:00:00.000Z"
+    },
+    {
+      "id": "p-jigar-1",
+      "poetId": "poet-jigar",
+      "poetNameUrdu": "جگر مراد آبادی",
+      "poetNameEnglish": "Jigar Moradabadi",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "یہ عشق نہیں آساں اتنا ہی سمجھ لیجے",
+        "اک آگ کا دریا ہے اور ڈوب کے جانا ہے"
+      ],
+      "status": "published",
+      "likesCount": 320,
+      "featured": false,
+      "createdAt": "2026-02-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-shakeb-1",
+      "poetId": "poet-shakeb",
+      "poetNameUrdu": "شکیب جلالی",
+      "poetNameEnglish": "Shakeb Jalali",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "تو نے دیکھا ہے کبھی اڑتے پرندوں کا زوال",
+        "تیر لگنے سے نہیں سنگ اچھالے سے مرا"
+      ],
+      "status": "published",
+      "likesCount": 220,
+      "featured": false,
+      "createdAt": "2026-02-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-minai-1",
+      "poetId": "poet-minai",
+      "poetNameUrdu": "امیر مینائی",
+      "poetNameEnglish": "Ameer Minai",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہوائے دشتِ جنوں کا پیام لائی ہے",
+        "بہار آئی ہے دیوانگی سکھائی ہے"
+      ],
+      "status": "published",
+      "likesCount": 190,
+      "featured": false,
+      "createdAt": "2026-02-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-atish-1",
+      "poetId": "poet-atish",
+      "poetNameUrdu": "آتش لکھنوی",
+      "poetNameEnglish": "Atish Lakhnavi",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "یہ آرزو تھی تجھے گل کے روبرو کرتے",
+        "ہم اور بلبلِ بے تاب گفتگو کرتے"
+      ],
+      "status": "published",
+      "likesCount": 230,
+      "featured": false,
+      "createdAt": "2026-02-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-waseem-1",
+      "poetId": "poet-waseem",
+      "poetNameUrdu": "وسیم بریلوی",
+      "poetNameEnglish": "Waseem Barelvi",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "اصولوں پر جہاں آنچ آئے ٹکرانا ضروری ہے",
+        "جو زندہ ہو تو پھر زندہ نظر آنا ضروری ہے"
+      ],
+      "status": "published",
+      "likesCount": 340,
+      "featured": false,
+      "createdAt": "2026-02-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-zaidi-1",
+      "poetId": "poet-zaidi",
+      "poetNameUrdu": "مصطفیٰ زیدی",
+      "poetNameEnglish": "Mustafa Zaidi",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "انہی پتھروں پہ چل کے اگر آ سکو تو آؤ",
+        "مرے گھر کے راستے میں کوئی کہکشاں نہیں ہے"
+      ],
+      "status": "published",
+      "likesCount": 240,
+      "featured": false,
+      "createdAt": "2026-02-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-amjad-1",
+      "poetId": "poet-amjad",
+      "poetNameUrdu": "مجید امجد",
+      "poetNameEnglish": "Majeed Amjad",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "یہ دنیا روز ملنے اور بچھڑنے کا تماشا ہے",
+        "کوئی آتا ہے رخصت کو کوئی روتا ہے جانے پر"
+      ],
+      "status": "published",
+      "likesCount": 210,
+      "featured": false,
+      "createdAt": "2026-02-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-firaq-1",
+      "poetId": "poet-firaq",
+      "poetNameUrdu": "فراق گورکھپوری",
+      "poetNameEnglish": "Firaq Gorakhpuri",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "شام بھی تھی دھواں دھواں حسن بھی تھا اداس اداس",
+        "دل کو کئی کہانیاں یاد سی آ کے رہ گئیں"
+      ],
+      "status": "published",
+      "likesCount": 270,
+      "featured": false,
+      "createdAt": "2026-02-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-qasmi-1",
+      "poetId": "poet-qasmi",
+      "poetNameUrdu": "احمد ندیم قاسمی",
+      "poetNameEnglish": "Ahmad Nadeem Qasmi",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "کون کہتا ہے کہ موت آئی تو مر جاؤں گا",
+        "میں تو دریا ہوں سمندر میں اتر جاؤں گا"
+      ],
+      "status": "published",
+      "likesCount": 295,
+      "featured": false,
+      "createdAt": "2026-02-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-insha-1",
+      "poetId": "poet-insha",
+      "poetNameUrdu": "ابنِ انشا",
+      "poetNameEnglish": "Ibn-e-Insha",
+      "categoryId": "cat-tanha",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "انشا جی اٹھو اب کوچ کرو اس شہر میں جی کو لگانا کیا",
+        "دیوانے ہوئے رسوا بھی ہوئے اب اور تماشا بننا کیا"
+      ],
+      "status": "published",
+      "likesCount": 360,
+      "featured": false,
+      "createdAt": "2026-02-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-arif-1",
+      "poetId": "poet-arif",
+      "poetNameUrdu": "افتخار عارف",
+      "poetNameEnglish": "Iftikhar Arif",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "خواب ٹوٹے ہیں تو آشفتہ سری باقی ہے",
+        "شکر ہے اب بھی کوئی دیدہ وری باقی ہے"
+      ],
+      "status": "published",
+      "likesCount": 250,
+      "featured": false,
+      "createdAt": "2026-02-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-fani-1",
+      "poetId": "poet-fani",
+      "poetNameUrdu": "فانی بدایونی",
+      "poetNameEnglish": "Fani Badayuni",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "شوق سے ناکامی کی بدولت جیتا ہوں",
+        "موت ہی میرا علاج ہو تو ہو ورنہ نہیں"
+      ],
+      "status": "published",
+      "likesCount": 195,
+      "featured": false,
+      "createdAt": "2026-02-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-asghar-1",
+      "poetId": "poet-asghar",
+      "poetNameUrdu": "اصغر گونڈوی",
+      "poetNameEnglish": "Asghar Gondvi",
+      "categoryId": "cat-sufiana",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "چلا جاتا ہوں ہنستا کھیلتا موجِ حوادث سے",
+        "اگر آسانیاں ہوں زندگی دشوار ہو جائے"
+      ],
+      "status": "published",
+      "likesCount": 225,
+      "featured": false,
+      "createdAt": "2026-02-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-aleem-1",
+      "poetId": "poet-aleem",
+      "poetNameUrdu": "عبید اللہ علیم",
+      "poetNameEnglish": "Obaidullah Aleem",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "عزیز اتنا ہی رکھو کہ جی سنبھل جائے",
+        "اب اس قدر بھی نہ چاہو کہ دم نکل جائے"
+      ],
+      "status": "published",
+      "likesCount": 310,
+      "featured": false,
+      "createdAt": "2026-02-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-ada-1",
+      "poetId": "poet-ada",
+      "poetNameUrdu": "ادا جعفری",
+      "poetNameEnglish": "Ada Jafri",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہونٹوں پہ کبھی ان کے مرا نام ہی آئے",
+        "آئے تو سہی برسرِ الزام ہی آئے"
+      ],
+      "status": "published",
+      "likesCount": 240,
+      "featured": false,
+      "createdAt": "2026-02-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-kishwar-1",
+      "poetId": "poet-kishwar",
+      "poetNameUrdu": "کشور ناہید",
+      "poetNameEnglish": "Kishwar Naheed",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "ہم گناہ گار عورتیں ہیں",
+        "جو راہوں میں نکل پڑی ہیں"
+      ],
+      "status": "published",
+      "likesCount": 230,
+      "featured": false,
+      "createdAt": "2026-02-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-tabassum-1",
+      "poetId": "poet-tabassum",
+      "poetNameUrdu": "صوفی تبسم",
+      "poetNameEnglish": "Sufi Tabassum",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "سو بار چمن مہکا سو بار بہار آئی",
+        "دنیا کی وہی رونق دل کی وہی ویرانی"
+      ],
+      "status": "published",
+      "likesCount": 280,
+      "featured": false,
+      "createdAt": "2026-02-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-zafar-iqbal-1",
+      "poetId": "poet-zafar-iqbal",
+      "poetNameUrdu": "ظفر اقبال",
+      "poetNameEnglish": "Zafar Iqbal",
+      "categoryId": "cat-zindagi",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "جھوٹ بولا ہے تو قائم بھی رہو اس پر ظفرؔ",
+        "آدمی کو صاحبِ کردار ہونا چاہیے"
+      ],
+      "status": "published",
+      "likesCount": 260,
+      "featured": false,
+      "createdAt": "2026-02-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-qateel-1",
+      "poetId": "poet-qateel",
+      "poetNameUrdu": "قتیل شفائی",
+      "poetNameEnglish": "Qateel Shifai",
+      "categoryId": "cat-ishq",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "گرمیِ حسرتِ ناکام سے جل جاتے ہیں",
+        "ہم چراغوں کی طرح شام سے جل جاتے ہیں"
+      ],
+      "status": "published",
+      "likesCount": 305,
+      "featured": false,
+      "createdAt": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-saghar-1",
+      "poetId": "poet-saghar",
+      "poetNameUrdu": "ساغر صدیقی",
+      "poetNameEnglish": "Saghar Siddiqui",
+      "categoryId": "cat-dard",
+      "poetryType": "ashar",
+      "versesUrdu": [
+        "زندگی جبرِ مسلسل کی طرح کاٹی ہے",
+        "جانے کس جرم کی پائی ہے سزا یاد نہیں"
+      ],
+      "status": "published",
+      "likesCount": 390,
+      "featured": false,
+      "createdAt": "2026-02-22T10:00:00.000Z"
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-default-1",
+      "title": "دیوانِ سخن — منتخب اردو شاعری",
+      "subtitle": "کلاسیکی و عصری شعراء کے شاہکار کلام کا گلدستہ",
+      "imageUrl": "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?auto=format&fit=crop&w=1200&q=80",
+      "isActive": true,
+      "order": 1,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}
