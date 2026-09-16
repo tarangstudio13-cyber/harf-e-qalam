@@ -1,0 +1,6 @@
+{
+  "name": "Harf-e-Qalam",
+  "description": "Harf-e-Qalam - A modern, elegant Urdu poetry platform featuring authentic Nastaliq typography, curated poet collections, and bilingual search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
